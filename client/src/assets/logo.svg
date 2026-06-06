@@ -1,0 +1,15 @@
+<svg width="200" height="40" viewBox="0 0 200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 20C0 11.1634 7.16344 4 16 4H37C45.8366 4 53 11.1634 53 20V36H16C7.16344 36 0 28.8366 0 20Z" fill="#4845D2"/>
+<path d="M37 10H16C10.4772 10 6 14.4772 6 20C6 25.5228 10.4772 30 16 30H37C42.5228 30 47 25.5228 47 20C47 14.4772 42.5228 10 37 10Z" fill="#A5B4FC"/>
+<path d="M16 25C18.7614 25 21 22.7614 21 20C21 17.2386 18.7614 15 16 15C13.2386 15 11 17.2386 11 20C11 22.7614 13.2386 25 16 25Z" fill="black"/>
+<path d="M14 19C14.5523 19 15 18.5523 15 18C15 17.4477 14.5523 17 14 17C13.4477 17 13 17.4477 13 18C13 18.5523 13.4477 19 14 19Z" fill="white"/>
+<path d="M38 25C40.7614 25 43 22.7614 43 20C43 17.2386 40.7614 15 38 15C35.2386 15 33 17.2386 33 20C33 22.7614 35.2386 25 38 25Z" fill="black"/>
+<path d="M36 19C36.5523 19 37 18.5523 37 18C37 17.4477 36.5523 17 36 17C35.4477 17 35 17.4477 35 18C35 18.5523 35.4477 19 36 19Z" fill="white"/>
+<text x="65" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="800" fill="white">VidGenius<tspan fill="url(#paint0_linear_9843_4741)">AI</tspan></text>
+<defs>
+<linearGradient id="paint0_linear_9843_4741" x1="114" y1="0" x2="114" y2="40" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A5B4FC"/>
+<stop offset="1" stop-color="#4845D2"/>
+</linearGradient>
+</defs>
+</svg>
