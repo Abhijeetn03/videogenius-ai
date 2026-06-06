@@ -19,6 +19,12 @@ VidGenius AI is a full-stack, state-of-the-art AI Video Generation platform desi
 ### Homepage Banner
 ![Homepage screenshot](./screenshots/homepage.png)
 
+### Video Generator Workspace
+![Generator screenshot](./screenshots/generate.png)
+
+### Demo Generation Results
+![Demo Result screenshot](./screenshots/result_demo.png)
+
 ### Call To Action & Footer Section
 ![Footer screenshot](./screenshots/cta_footer.png)
 
