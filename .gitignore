@@ -1,0 +1,13 @@
+.env
+client/.env
+server/.env
+node_modules
+*.pdf
+
+# Temp video folders
+server/videos/
+
+# Documentation and Knowledge Base
+knowledge_base/
+.DS_Store
+*.DS_Store
